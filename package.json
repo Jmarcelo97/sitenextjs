@@ -1,0 +1,25 @@
+{
+  "name": "sitenextjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jmarcelo97/sitenextjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jmarcelo97/sitenextjs/issues"
+  },
+  "homepage": "https://github.com/Jmarcelo97/sitenextjs#readme",
+  "dependencies": {
+    "next": "^10.0.9",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
